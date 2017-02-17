@@ -1,0 +1,11 @@
+D:\College\Visual Basic\VB2015\Chap04\Gross Solution-Single\Gross Project\bin\Debug\Gross Project.exe.config
+D:\College\Visual Basic\VB2015\Chap04\Gross Solution-Single\Gross Project\bin\Debug\Gross Project.exe
+D:\College\Visual Basic\VB2015\Chap04\Gross Solution-Single\Gross Project\bin\Debug\Gross Project.pdb
+D:\College\Visual Basic\VB2015\Chap04\Gross Solution-Single\Gross Project\bin\Debug\Gross Project.xml
+D:\College\Visual Basic\VB2015\Chap04\Gross Solution-Single\Gross Project\obj\Debug\Gross Project.vbprojResolveAssemblyReference.cache
+D:\College\Visual Basic\VB2015\Chap04\Gross Solution-Single\Gross Project\obj\Debug\Gross_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap04\Gross Solution-Single\Gross Project\obj\Debug\Gross_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap04\Gross Solution-Single\Gross Project\obj\Debug\Gross Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap04\Gross Solution-Single\Gross Project\obj\Debug\Gross Project.exe
+D:\College\Visual Basic\VB2015\Chap04\Gross Solution-Single\Gross Project\obj\Debug\Gross Project.xml
+D:\College\Visual Basic\VB2015\Chap04\Gross Solution-Single\Gross Project\obj\Debug\Gross Project.pdb

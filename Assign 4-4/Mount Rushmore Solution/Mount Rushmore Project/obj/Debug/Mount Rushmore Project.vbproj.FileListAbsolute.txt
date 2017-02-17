@@ -1,0 +1,10 @@
+D:\College\Visual Basic\VB2015\Chap04\Mount Rushmore Solution\Mount Rushmore Project\bin\Debug\Mount Rushmore Project.exe.config
+D:\College\Visual Basic\VB2015\Chap04\Mount Rushmore Solution\Mount Rushmore Project\bin\Debug\Mount Rushmore Project.exe
+D:\College\Visual Basic\VB2015\Chap04\Mount Rushmore Solution\Mount Rushmore Project\bin\Debug\Mount Rushmore Project.pdb
+D:\College\Visual Basic\VB2015\Chap04\Mount Rushmore Solution\Mount Rushmore Project\bin\Debug\Mount Rushmore Project.xml
+D:\College\Visual Basic\VB2015\Chap04\Mount Rushmore Solution\Mount Rushmore Project\obj\Debug\Mount_Rushmore_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap04\Mount Rushmore Solution\Mount Rushmore Project\obj\Debug\Mount_Rushmore_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap04\Mount Rushmore Solution\Mount Rushmore Project\obj\Debug\Mount Rushmore Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap04\Mount Rushmore Solution\Mount Rushmore Project\obj\Debug\Mount Rushmore Project.exe
+D:\College\Visual Basic\VB2015\Chap04\Mount Rushmore Solution\Mount Rushmore Project\obj\Debug\Mount Rushmore Project.xml
+D:\College\Visual Basic\VB2015\Chap04\Mount Rushmore Solution\Mount Rushmore Project\obj\Debug\Mount Rushmore Project.pdb

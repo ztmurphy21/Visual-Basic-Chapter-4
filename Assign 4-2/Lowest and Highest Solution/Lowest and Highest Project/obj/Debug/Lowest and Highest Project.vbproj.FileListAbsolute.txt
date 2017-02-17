@@ -1,0 +1,10 @@
+D:\College\Visual Basic\VB2015\Chap04\Lowest and Highest Solution\Lowest and Highest Project\bin\Debug\Lowest and Highest Project.exe.config
+D:\College\Visual Basic\VB2015\Chap04\Lowest and Highest Solution\Lowest and Highest Project\bin\Debug\Lowest and Highest Project.exe
+D:\College\Visual Basic\VB2015\Chap04\Lowest and Highest Solution\Lowest and Highest Project\bin\Debug\Lowest and Highest Project.pdb
+D:\College\Visual Basic\VB2015\Chap04\Lowest and Highest Solution\Lowest and Highest Project\bin\Debug\Lowest and Highest Project.xml
+D:\College\Visual Basic\VB2015\Chap04\Lowest and Highest Solution\Lowest and Highest Project\obj\Debug\Lowest_and_Highest_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap04\Lowest and Highest Solution\Lowest and Highest Project\obj\Debug\Lowest_and_Highest_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap04\Lowest and Highest Solution\Lowest and Highest Project\obj\Debug\Lowest and Highest Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap04\Lowest and Highest Solution\Lowest and Highest Project\obj\Debug\Lowest and Highest Project.exe
+D:\College\Visual Basic\VB2015\Chap04\Lowest and Highest Solution\Lowest and Highest Project\obj\Debug\Lowest and Highest Project.xml
+D:\College\Visual Basic\VB2015\Chap04\Lowest and Highest Solution\Lowest and Highest Project\obj\Debug\Lowest and Highest Project.pdb
